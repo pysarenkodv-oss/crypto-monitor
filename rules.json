@@ -15,12 +15,24 @@
     "name": "LINK_UP",
     "symbol": "LINKUSDT",
     "direction": "above",
-    "level": 11.8
+    "level": 11.6
   },
   {
     "name": "LINK_DOWN",
     "symbol": "LINKUSDT",
     "direction": "below",
     "level": 11.3
+  },
+  {
+    "name": "ETH_UP",
+    "symbol": "ETHUSDT",
+    "direction": "above",
+    "level": 2270.0
+  },
+  {
+    "name": "ETH_DOWN",
+    "symbol": "ETHUSDT",
+    "direction": "below",
+    "level": 2237.0
   }
 ]
