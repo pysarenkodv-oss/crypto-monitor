@@ -1,0 +1,26 @@
+[
+  {
+    "name": "BTC_UP",
+    "symbol": "BTCUSDT",
+    "direction": "above",
+    "level": 81200.0
+  },
+  {
+    "name": "BTC_DOWN",
+    "symbol": "BTCUSDT",
+    "direction": "below",
+    "level": 79000.0
+  },
+  {
+    "name": "LINK_UP",
+    "symbol": "LINKUSDT",
+    "direction": "above",
+    "level": 11.8
+  },
+  {
+    "name": "LINK_DOWN",
+    "symbol": "LINKUSDT",
+    "direction": "below",
+    "level": 11.3
+  }
+]
