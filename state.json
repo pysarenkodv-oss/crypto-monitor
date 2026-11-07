@@ -86,8 +86,10 @@
     "ZEC_UP|1794009600000|1282.0|above",
     "XRP_DOWN|1794009600000|1.18|below",
     "ZEC_UP|1794013200000|1282.0|above",
-    "XRP_DOWN|1794013200000|1.18|below"
+    "XRP_DOWN|1794013200000|1.18|below",
+    "ZEC_UP|1794016800000|1282.0|above",
+    "XRP_DOWN|1794016800000|1.18|below"
   ],
-  "last_scan": 1794016293.1892025,
+  "last_scan": 1794022169.7712986,
   "initialized": true
 }
