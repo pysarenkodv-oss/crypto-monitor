@@ -124,8 +124,9 @@
     "XRP_DOWN|1794099600000|1.18|below",
     "XRP_DOWN|1794103200000|1.18|below",
     "XRP_DOWN|1794106800000|1.18|below",
-    "XRP_DOWN|1794110400000|1.18|below"
+    "XRP_DOWN|1794110400000|1.18|below",
+    "XRP_DOWN|1794114000000|1.18|below"
   ],
-  "last_scan": 1794115193.9291754,
+  "last_scan": 1794118609.533033,
   "initialized": true
 }
