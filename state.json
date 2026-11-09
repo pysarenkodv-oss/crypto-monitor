@@ -190,8 +190,9 @@
     "ETH_DOWN|1794225600000|2205.0|below",
     "ETH_DOWN|1794229200000|2205.0|below",
     "ETH_DOWN|1794232800000|2205.0|below",
-    "ETH_DOWN|1794236400000|2205.0|below"
+    "ETH_DOWN|1794236400000|2205.0|below",
+    "ETH_DOWN|1794240000000|2205.0|below"
   ],
-  "last_scan": 1794243453.9777267,
+  "last_scan": 1794246841.731248,
   "initialized": true
 }
