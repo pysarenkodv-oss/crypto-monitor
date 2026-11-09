@@ -1,5 +1,5 @@
 {
-  "offset": 376258743,
+  "offset": 376258745,
   "sent": [
     "ETH_UP|1793851200000|2270.0|above",
     "ETH_UP|1793854800000|2270.0|above",
@@ -185,8 +185,9 @@
     "ETH_DOWN|1794214800000|2205.0|below",
     "ZEC_DOWN|1794214800000|1240.0|below",
     "ETH_DOWN|1794218400000|2205.0|below",
-    "ZEC_DOWN|1794218400000|1240.0|below"
+    "ZEC_DOWN|1794218400000|1240.0|below",
+    "ETH_DOWN|1794222000000|2205.0|below"
   ],
-  "last_scan": 1794224203.502506,
+  "last_scan": 1794228056.7694905,
   "initialized": true
 }
