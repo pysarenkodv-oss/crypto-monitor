@@ -217,8 +217,9 @@
     "ETH_DOWN|1794283200000|2205.0|below",
     "ZEC_DOWN|1794283200000|1180.0|below",
     "ETH_DOWN|1794286800000|2205.0|below",
-    "ZEC_DOWN|1794286800000|1180.0|below"
+    "ZEC_DOWN|1794286800000|1180.0|below",
+    "LINK_DOWN|1794304800000|10.5|below"
   ],
-  "last_scan": 1794307074.5883107,
+  "last_scan": 1794310408.6572006,
   "initialized": true
 }
