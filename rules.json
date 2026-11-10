@@ -15,13 +15,13 @@
     "name": "LINK_UP",
     "symbol": "LINKUSDT",
     "direction": "above",
-    "level": 10.75
+    "level": 10.71
   },
   {
     "name": "LINK_DOWN",
     "symbol": "LINKUSDT",
     "direction": "below",
-    "level": 10.5
+    "level": 10.4
   },
   {
     "name": "ETH_UP",
