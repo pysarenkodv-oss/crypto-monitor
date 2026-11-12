@@ -236,8 +236,9 @@
     "LINK_DOWN|1794463200000|10.1|below",
     "LINK_DOWN|1794470400000|10.1|below",
     "LINK_DOWN|1794477600000|10.1|below",
-    "LINK_DOWN|1794481200000|10.1|below"
+    "LINK_DOWN|1794481200000|10.1|below",
+    "LINK_DOWN|1794484800000|10.1|below"
   ],
-  "last_scan": 1794487216.4235294,
+  "last_scan": 1794491784.5896926,
   "initialized": true
 }
