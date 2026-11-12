@@ -233,8 +233,9 @@
     "ZEC_UP|1794319200000|1100.0|above",
     "ZEC_DOWN|1794376800000|994.0|below",
     "LINK_DOWN|1794459600000|10.1|below",
-    "LINK_DOWN|1794463200000|10.1|below"
+    "LINK_DOWN|1794463200000|10.1|below",
+    "LINK_DOWN|1794470400000|10.1|below"
   ],
-  "last_scan": 1794471895.507257,
+  "last_scan": 1794475724.9862602,
   "initialized": true
 }
