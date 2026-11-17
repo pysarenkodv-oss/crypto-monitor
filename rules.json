@@ -3,48 +3,48 @@
     "name": "BTC_UP",
     "symbol": "BTCUSDT",
     "direction": "above",
-    "level": 66000.0
+    "level": 66400.0
   },
   {
     "name": "BTC_DOWN",
     "symbol": "BTCUSDT",
     "direction": "below",
-    "level": 62000.0
+    "level": 63900.0
   },
   {
     "name": "LINK_UP",
     "symbol": "LINKUSDT",
     "direction": "above",
-    "level": 9.4
+    "level": 9.36
   },
   {
     "name": "LINK_DOWN",
     "symbol": "LINKUSDT",
     "direction": "below",
-    "level": 8.55
+    "level": 9.0
   },
   {
     "name": "ETH_UP",
     "symbol": "ETHUSDT",
     "direction": "above",
-    "level": 1840.0
+    "level": 1850.0
   },
   {
     "name": "ETH_DOWN",
     "symbol": "ETHUSDT",
     "direction": "below",
-    "level": 1710.0
+    "level": 1790.0
   },
   {
     "name": "ZEC_UP",
     "symbol": "ZECUSDT",
     "direction": "above",
-    "level": 925.0
+    "level": 935.0
   },
   {
     "name": "ZEC_DOWN",
     "symbol": "ZECUSDT",
     "direction": "below",
-    "level": 800.0
+    "level": 845.0
   }
 ]
