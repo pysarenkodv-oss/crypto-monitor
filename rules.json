@@ -39,12 +39,12 @@
     "name": "ZEC_UP",
     "symbol": "ZECUSDT",
     "direction": "above",
-    "level": 974.0
+    "level": 950.0
   },
   {
     "name": "ZEC_DOWN",
     "symbol": "ZECUSDT",
     "direction": "below",
-    "level": 935.0
+    "level": 915.0
   }
 ]
