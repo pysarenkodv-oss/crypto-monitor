@@ -3,25 +3,25 @@
     "name": "BTC_UP",
     "symbol": "BTCUSDT",
     "direction": "above",
-    "level": 62000.0
+    "level": 64000.0
   },
   {
     "name": "BTC_DOWN",
     "symbol": "BTCUSDT",
     "direction": "below",
-    "level": 60700.0
+    "level": 61000.0
   },
   {
     "name": "LINK_UP",
     "symbol": "LINKUSDT",
     "direction": "above",
-    "level": 9.0
+    "level": 9.35
   },
   {
     "name": "LINK_DOWN",
     "symbol": "LINKUSDT",
     "direction": "below",
-    "level": 8.7
+    "level": 8.9
   },
   {
     "name": "ETH_UP",
