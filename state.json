@@ -1,5 +1,5 @@
 {
-  "offset": 376258869,
+  "offset": 376258873,
   "sent": [
     "ZEC_DOWN|1795172400000|843.0|below",
     "ZEC_DOWN|1795176000000|843.0|below",
@@ -302,6 +302,6 @@
     "ZEC_DOWN|1795618800000|700.0|below",
     "ZEC_DOWN|1795622400000|700.0|below"
   ],
-  "last_scan": 1795680680.963841,
+  "last_scan": 1795685173.787803,
   "initialized": true
 }
