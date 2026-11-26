@@ -46,5 +46,17 @@
     "symbol": "ZECUSDT",
     "direction": "below",
     "level": 700.0
+  },
+  {
+    "name": "XRP_UP",
+    "symbol": "XRPUSDT",
+    "direction": "above",
+    "level": 0.964
+  },
+  {
+    "name": "XRP_DOWN",
+    "symbol": "XRPUSDT",
+    "direction": "below",
+    "level": 0.935
   }
 ]
