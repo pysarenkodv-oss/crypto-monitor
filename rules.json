@@ -3,25 +3,25 @@
     "name": "BTC_UP",
     "symbol": "BTCUSDT",
     "direction": "above",
-    "level": 61450.0
+    "level": 62100.0
   },
   {
     "name": "BTC_DOWN",
     "symbol": "BTCUSDT",
     "direction": "below",
-    "level": 59800.0
+    "level": 60800.0
   },
   {
     "name": "LINK_UP",
     "symbol": "LINKUSDT",
     "direction": "above",
-    "level": 9.3
+    "level": 9.72
   },
   {
     "name": "LINK_DOWN",
     "symbol": "LINKUSDT",
     "direction": "below",
-    "level": 8.9
+    "level": 9.38
   },
   {
     "name": "ETH_UP",
@@ -51,12 +51,12 @@
     "name": "XRP_UP",
     "symbol": "XRPUSDT",
     "direction": "above",
-    "level": 0.964
+    "level": 0.98
   },
   {
     "name": "XRP_DOWN",
     "symbol": "XRPUSDT",
     "direction": "below",
-    "level": 0.935
+    "level": 0.948
   }
 ]
