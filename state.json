@@ -1,8 +1,6 @@
 {
   "offset": 376258875,
   "sent": [
-    "ZEC_DOWN|1795186800000|800.0|below",
-    "BTC_DOWN|1795190400000|61200.0|below",
     "LINK_DOWN|1795190400000|8.57|below",
     "ETH_DOWN|1795190400000|1710.0|below",
     "ZEC_DOWN|1795190400000|800.0|below",
@@ -300,8 +298,10 @@
     "LINK_UP|1795723200000|9.3|above",
     "LINK_UP|1795726800000|9.3|above",
     "LINK_UP|1795730400000|9.3|above",
-    "ZEC_DOWN|1795730400000|700.0|below"
+    "ZEC_DOWN|1795730400000|700.0|below",
+    "LINK_UP|1795737600000|9.3|above",
+    "ZEC_DOWN|1795734000000|700.0|below"
   ],
-  "last_scan": 1795736987.504576,
+  "last_scan": 1795741337.6131005,
   "initialized": true
 }
